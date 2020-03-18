@@ -1,4 +1,4 @@
-forecast_corona_algeria
+covid-19_forecast
 ==============================
 
 this is a daily forecast of coronavirus cases in algeria
